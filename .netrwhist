@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/saiyagg/svn/ueddocs/project/01.Arale/trunk/arale'
+let g:netrw_dirhist_2='/Users/xugan/svn/guangwang/home'
+let g:netrw_dirhist_3='/Users/xugan/svn/guangwang/pay/home'
+let g:netrw_dirhist_4='/Users/xugan/svn/guangwang/pay/home/control'
+let g:netrw_dirhist_5='/Users/xugan/svn/guangwang/uisvr/default/home/template-resources'
+let g:netrw_dirhist_6='/Users/zhouqiuping/Alipay/workspace/guanwang'
